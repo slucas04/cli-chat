@@ -1,6 +1,6 @@
 # CLI Chat 💬
 
-Este projeto implementa um **chat via terminal** utilizando **Java** e **sockets**, permitindo a comunicação entre múltiplos clientes em um servidor central. O sistema suporta mensagens públicas, mensagens privadas e comandos especiais para interação. Implementado com intuito de estudar **sockets**, **threads** e aplicações com **command line interface**.
+Este projeto implementa um **chat via terminal** utilizando **Java** e **sockets**, permitindo a comunicação entre múltiplos clientes em um servidor central. O sistema suporta mensagens públicas, mensagens privadas e comandos especiais para interação. Implementado com intuito de estudar **redes**, **concorrência**, **sockets**, **threads** e aplicações com **command line interface**.
 
 ---
 
